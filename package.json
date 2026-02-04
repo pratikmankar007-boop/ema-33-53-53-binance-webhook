@@ -1,1 +1,12 @@
-
+{
+  "name": "ema-33-53-53-binance-webhook",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2"
+  }
+}
